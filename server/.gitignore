@@ -1,3 +1,18 @@
-.env
+# Node modules
 node_modules/
+
+# Environment files
+.env
+
+# Prisma
 prisma/migrations/migration_lock.toml
+
+# Logs
+*.log
+
+# OS/macOS
+.DS_Store
+
+# Build output
+dist/
+build/
